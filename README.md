@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sekisei0077
-- 👀 I’m interested in ... Python
+- 👀 I’m interested in ... Python MinecraftDataPacks
 - 🌱 I’m currently learning ... FastAPI,C++
 - 💞️ I’m looking to collaborate on ... something service assist
 - 📫 How to reach me ... sekisei7(Discord)
