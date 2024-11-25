@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sekisei0077
-- 👀 I’m interested in ... Python MinecraftDataPacks
+- 👀 I’m interested in ... Python MinecraftPlugins
 - 🌱 I’m currently learning ... FastAPI,C++
 - 💞️ I’m looking to collaborate on ... something service assist
-- 📫 How to reach me ... sekisei7(Discord)
+- 📫 How to reach me ... [Discord Server](https://discord.gg/cP859cs8k3)
 - 😄 Pronouns: ... sekisei
 - ⚡ Fun fact: ... thinking...
 
