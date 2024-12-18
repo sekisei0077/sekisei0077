@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sekisei0077
+- 👋 Hi, I’m @sekisei77
 - 👀 I’m interested in ... Python MinecraftPlugins
 - 🌱 I’m currently learning ... FastAPI,C++
 - 💞️ I’m looking to collaborate on ... something service assist
